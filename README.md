@@ -21,7 +21,7 @@ La última versión estable se puede encontrar aquí: https://github.com/TiVP/Ti
 * Botón de alternancia en la bandeja de menú que le permitirá utilizar el modo bloqueado y desbloqueado.
 
 ## Atribuciónes
-* Graphics (Renderizador de texto e imágenes para AutoHotkey) [GitHub](https://github.com/iseahound/Graphics).
+* [Graphics](https://github.com/iseahound/Graphics) (Renderizador de texto e imágenes para AutoHotkey)
 
 [//]: # (LINKS)
 [releases]: https://github.com/TiVP/Tirabolas-3000/releases
