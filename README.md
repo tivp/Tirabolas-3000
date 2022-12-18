@@ -1,6 +1,7 @@
-# Tirabolas-3000
-[![GitHub release (latest by date including pre-releases)](https://badgen.net/github/release/TiVP/Tirabolas-3000?label=Latest%20release)][releases]
-[![GitHub release (latest by date including pre-releases)](https://badgen.net/github/license/TiVP/Tirabolas-3000?label=license)][license]
+# Tirabolas 3000
+[![](https://badgen.net/github/release/TiVP/Tirabolas-3000?label=Última+publicación)][releases]
+[![](https://badgen.net/github/assets-dl//TiVP/Tirabolas-3000?label=Descargas+de+la+última+versión)][latestreleases]
+[![](https://badgen.net/github/license/TiVP/Tirabolas-3000?label=Licencia)][license]
 
 [![Imagen][preview_image]][preview_image_url]
 
@@ -24,6 +25,7 @@ La última versión estable se puede encontrar aquí: https://github.com/TiVP/Ti
 
 [//]: # (LINKS)
 [releases]: https://github.com/TiVP/Tirabolas-3000/releases
+[latestreleases]: https://github.com/TiVP/Tirabolas-3000/releases/latest
 [license]: https://github.com/TiVP/Tirabolas-3000/license
 [preview_image]: https://github.com/TiVP/Tirabolas-3000/blob/main/Resources/Tirabolas.png
 [preview_image_url]: https://github.com/TiVP/Tirabolas-3000/blob/main/Resources/Tirabolas.png
