@@ -3,7 +3,7 @@
 [![](https://badgen.net/github/assets-dl//TiVP/Tirabolas-3000?label=Descargas+de+la+última+versión)][latestreleases]
 [![](https://badgen.net/github/license/TiVP/Tirabolas-3000?label=Licencia)][license]
 
-[![Imagen][preview_image]][preview_image_url]
+<img height="auto" width="64%" src="https://repository-images.githubusercontent.com/579599369/ba0f40ba-2430-4981-80b9-d8eedc0fb44a">
 
 El mejor tirador automático de bolas de nieve para Club Penguin. Nuestro producto es fácil de usar y es imprescindible para cualquier pingüino. ¡Te ayudará a convertirte en el mejor tirador de bolas de nieve en Club Penguin!
 
@@ -27,5 +27,3 @@ La última versión estable se puede encontrar aquí: https://github.com/TiVP/Ti
 [releases]: https://github.com/TiVP/Tirabolas-3000/releases
 [latestreleases]: https://github.com/TiVP/Tirabolas-3000/releases/latest
 [license]: https://github.com/TiVP/Tirabolas-3000/license
-[preview_image]: https://github.com/TiVP/Tirabolas-3000/blob/main/Resources/Tirabolas.png
-[preview_image_url]: https://github.com/TiVP/Tirabolas-3000/blob/main/Resources/Tirabolas.png
