@@ -16,12 +16,15 @@ La última versión estable se puede encontrar aquí: https://github.com/TiVP/Ti
 * Windows (Portable)
 
 ## Funciones
-* Inicio de trabajo y deceso de lanzamiento de bolas de nieve (Utilizar `F1`)
+* Inicio y deceso de lanzamiento de bolas de nieve (Utilizar `F1`)
 * Bloqueo y desbloqueo del cursor en modo activo (Utilizar `F2`)
-* Botón de alternancia en la bandeja de menú que le permitirá utilizar el modo bloqueado y desbloqueado.
+* Botón de alternancia en la bandeja de menú que le permite cambiar el modo bloqueado y desbloqueado del cursor.
 
 ## Atribuciónes
 * [Graphics](https://github.com/iseahound/Graphics) (Renderizador de texto e imágenes para AutoHotkey)
+
+## Licencia
+Tirabolas 3000 está licenciado bajo GNU General Public License - ver la [licencia](https://github.com/iseahound/Graphics)
 
 [//]: # (LINKS)
 [releases]: https://github.com/TiVP/Tirabolas-3000/releases
