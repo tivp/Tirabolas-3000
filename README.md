@@ -1,3 +1,8 @@
+<!-- Google -->
+<meta itemprop="name" content="Tirabolas 3000" />
+<meta itemprop="description" content="¿Como Tirar Muchas Bolas de Nieve en Club Penguin?" />
+<meta itemprop="image" content="https://github.com/TiVP/Tirabolas-3000" />
+
 # Tirabolas 3000
 [![](https://badgen.net/github/release/TiVP/Tirabolas-3000?label=Última+publicación)][releases]
 [![](https://badgen.net/github/assets-dl//TiVP/Tirabolas-3000?label=Descargas+de+la+última+versión)][latestreleases]
