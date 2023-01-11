@@ -28,6 +28,9 @@ La última versión estable se puede encontrar aquí: https://github.com/TiVP/Ti
 ## Atribuciónes
 * [Graphics](https://github.com/iseahound/Graphics) (Renderizador de texto e imágenes para AutoHotkey)
 
+## Notas de la versión
+Consulte el [registro de cambios](https://github.com/TiVP/Tirabolas-3000/blob/main/CHANGELOG) aquí.
+
 ## Licencia
 Este proyecto de código abierto esta bajo la Licencia GNU General Public License 2.0 - ver la [licencia](https://github.com/TiVP/Tirabolas-3000/blob/main/LICENSE) aquí.
 
