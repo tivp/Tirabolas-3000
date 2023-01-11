@@ -25,11 +25,11 @@ La última versión estable se puede encontrar aquí: https://github.com/TiVP/Ti
 * Bloqueo y desbloqueo del cursor en modo activo (Utilizar `F2`)
 * Botón de alternancia en la bandeja de menú que le permite cambiar el modo bloqueado y desbloqueado del cursor.
 
-## Atribuciónes
-* [Graphics](https://github.com/iseahound/Graphics) (Renderizador de texto e imágenes para AutoHotkey)
-
 ## Notas de la versión
 Consulte el [registro de cambios](https://github.com/TiVP/Tirabolas-3000/blob/main/CHANGELOG.md) aquí.
+
+## Atribuciónes
+* [Graphics](https://github.com/iseahound/Graphics) (Renderizador de texto e imágenes para AutoHotkey)
 
 ## Licencia
 Tirabolas 3000 esta bajo la Licencia GNU General Public License 2.0 - ver la [licencia](https://github.com/TiVP/Tirabolas-3000/blob/main/LICENSE) aquí.
