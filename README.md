@@ -3,10 +3,10 @@
 <meta itemprop="description" content="¿Como Tirar Muchas Bolas de Nieve en Club Penguin?" />
 <meta itemprop="image" content="https://github.com/TiVP/Tirabolas-3000" />
 
-<p align="center"><img height="auto" width="64%" src="https://repository-images.githubusercontent.com/579599369/ba0f40ba-2430-4981-80b9-d8eedc0fb44a"></p>
+<p align="center"><img height="auto" width="74%" src="https://repository-images.githubusercontent.com/579599369/ba0f40ba-2430-4981-80b9-d8eedc0fb44a"></p>
 
 <p align="center">
-<a href="#" onclick="return false;"tabindex="0"><img src="https://img.shields.io/github/downloads/TiVP/Tirabolas-3000/total?label=Descargas totales&style=flat" alt="alldownloads"></a>
+<a href="#"><img src="https://img.shields.io/github/downloads/TiVP/Tirabolas-3000/total?label=Descargas totales&style=flat" alt="alldownloads"></a>
 <a href="https://github.com/TiVP/Tirabolas-3000/releases/latest"><img src="https://img.shields.io/github/v/release/TiVP/Tirabolas-3000?label=%C3%9Altima%20versi%C3%B3n&logo=windows&style=flat" alt="latestreleases"></a>
 <a href="https://github.com/TiVP/Tirabolas-3000/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TiVP/Tirabolas-3000?label=Licencia&logo=gnu&style=flat" alt="license"></a>
 </p>
@@ -17,7 +17,7 @@ El mejor tirador automático de bolas de nieve para Club Penguin. Nuestro produc
 
 ## Descargar
 
-La última versión estable se puede encontrar aquí: https://github.com/TiVP/Tirabolas-3000/releases/latest
+La última versión estable se puede encontrar [aquí](https://github.com/TiVP/Tirabolas-3000/releases/latest).
 
 ## Funciones
 
@@ -32,6 +32,3 @@ Al renderizador de texto e imágenes para AutoHotkey [Graphics](https://github.c
 ## Licencia
 
 Tirabolas 3000 está licenciado bajo la GNU General Public License 2.0 - ver la licencia [aquí](https://github.com/TiVP/Tirabolas-3000/blob/main/LICENSE) para más detalles.
-
-[//]: # (LINKS)
-[latestreleases]: https://github.com/TiVP/Tirabolas-3000/releases/latest
