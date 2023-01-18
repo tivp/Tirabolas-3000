@@ -19,6 +19,13 @@ El mejor tirador automático de bolas de nieve para Club Penguin. Nuestro produc
 
 La última versión estable se puede encontrar [aquí](https://github.com/TiVP/Tirabolas-3000/releases/latest).
 
+
+## :rocket: Demo
+
+[Video Sample](./assets/demo_video.gif)
+:-:
+<img src=./assets/demo_video.gif height=200px>
+
 ## ⌨ Funciones
 
 * Iniciar y detener el lanzamiento de bolas de nieve (Utilizar `F1`)
