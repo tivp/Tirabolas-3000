@@ -3,7 +3,8 @@
 <meta itemprop="description" content="¿Como Tirar Muchas Bolas de Nieve en Club Penguin?" />
 <meta itemprop="image" content="https://github.com/TiVP/Tirabolas-3000" />
 
-<p align="center"><img height="auto" width="64%" src="https://i.imgur.com/5cCYrB4.png"></p>
+<p align="center"><img height="auto" width="64%" src="https://raw.githubusercontent.com/TiVP/Tirabolas-3000/main/assets/cover.png"></p>
+<h2 align="center"><b>Tirabolas 3000</b></h2>
 <h4 align="center">El mejor tirador automático de bolas de nieve para Club Penguin.</h4>
 <p align="center">
 <a href="https://github.com/TiVP/Tirabolas-3000/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TiVP/Tirabolas-3000?label=Licencia&style=flat" alt="license"></a>
