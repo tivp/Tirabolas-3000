@@ -21,10 +21,9 @@ La última versión estable se puede encontrar [aquí](https://github.com/TiVP/T
 
 
 ## :rocket: Demo
-
-[Video Sample](./assets/demo_video.gif)
-:-:
-<img src=./assets/demo_video.gif height=200px>
+[Muestra de vídeo](https://github.com/plemeri/LaneSOD) |
+|:-:
+<img src=./assets/demo_video.gif height=18%x>|
 
 ## ⌨ Funciones
 
