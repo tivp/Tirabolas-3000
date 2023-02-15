@@ -19,7 +19,7 @@ Un sencillo programa hecho en AutoHotkey 😉 para lanzar bolas de nieve en Club
 
 Descargue aquí 👇 y consulte [aquí](https://github.com/vargastomas/Tirabolas-3000/releases) las páginas de versiones para conocer la historia y los aspectos más destacados de cada versión.
 
-<a href="https://github.com/vargastomas/Tirabolas-3000/releases/lastest"><img src="https://img.shields.io/badge/Windows%20(7+)-3a71c1?&logo=Windows&labelColor=0c0d10&color=3a71c1&style=for-the-badge" alt="latestreleases"></a>
+<a href="https://github.com/vargastomas/Tirabolas-3000/releases/latest"><img src="https://img.shields.io/badge/Windows%20(7+)-3a71c1?&logo=Windows&labelColor=0c0d10&color=3a71c1&style=for-the-badge" alt="latestreleases"></a>
 
 ## 📚 Bibliotecas
 * Renderizador de texto e imágenes para AutoHotkey [Graphics](https://github.com/iseahound/Graphics).
