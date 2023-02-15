@@ -7,7 +7,7 @@
 </div>
 
 ## ✨ Acerca de
-Un sencillo programa hecho en AutoHotkey 😉 para lanzar bolas en Club Penguin.
+Un sencillo programa hecho en AutoHotkey 😉 para lanzar bolas de nieve en Club Penguin.
 
 ### Funcionamientos
 
