@@ -24,4 +24,4 @@ Descargue aquí 👇 y consulte [aquí](https://github.com/vargastomas/Tirabolas
 * Renderizador de texto e imágenes para AutoHotkey [Graphics](https://github.com/iseahound/Graphics).
 
 ## 📄 Licencia
-Tirabolas 3000 se publica bajo [Unlicense](http://unlicense.org).
+[![Unlicense](https://upload.wikimedia.org/wikipedia/commons/a/ac/License_icon-pd-88x31.svg)](http://unlicense.org)
