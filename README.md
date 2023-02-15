@@ -1,4 +1,4 @@
-<img height="auto" width="50%" src="https://raw.githubusercontent.com/vargastomas/Tirabolas-3000/main/assets/cover.png"><h1></h1>
+<img height="auto" width="50%" src="https://raw.githubusercontent.com/vargastomas/Tirabolas-3000/main/assets/cover.png">
 <a href="#"><img src="https://img.shields.io/github/actions/workflow/status/vargastomas/Tirabolas-3000/ci.yml?branch=main&logo=Github&style=for-the-badge" alt="build"></a>
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/vargastomas/Tirabolas-3000?label=Licencia&logo=readthedocs&style=for-the-badge" alt="license"></a>
 
