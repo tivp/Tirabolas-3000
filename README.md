@@ -2,7 +2,7 @@
 <img height="auto" width="50%" src="./assets/cover.png"><br><br>
 <a href="https://github.com/vargastomas/Tirabolas-3000/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/vargastomas/Tirabolas-3000/ci.yml?branch=main&logo=Github&style=for-the-badge" alt="build"></a>
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/vargastomas/Tirabolas-3000?label=Licencia&logo=readthedocs&style=for-the-badge" alt="license"></a><br><br>
-¿Como tirar muchas bolas de nieve en Club Penguin 🤔? <i>Utilice este práctico tirador automático de bolas 👍.</i><br><br>
+¿Como tirar muchas bolas de nieve en Club Penguin 🤔? <i>Utilice este práctico tirador automático de bolas 👍</i><br><br>
 <img src=./assets/demo_video.gif width=70%><br><br>
 </div>
 
