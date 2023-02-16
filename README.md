@@ -28,5 +28,5 @@ Descargue aquí 👇 y consulte [aquí](https://github.com/vargastomas/Tirabolas
 ## 📚 Bibliotecas
 * [Graphics](https://github.com/iseahound/Graphics) - Renderizador de texto e imágenes para AutoHotkey.
 
-## 📄 Licencia
+## ⚖️ Licencia
 [![Unlicense](https://upload.wikimedia.org/wikipedia/commons/a/ac/License_icon-pd-88x31.svg)](http://unlicense.org)
