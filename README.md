@@ -13,7 +13,7 @@
 </div>
 
 ## ✨ Acerca de
-😉 Un sencillo programa hecho en <a href="https://www.autohotkey.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autohotkey.svg" alt="autohotkey" width=16></a> AutoHotkey para lanzar bolas de nieve en Club Penguin.
+😉 Un sencillo programa hecho en AutoHotkey para lanzar bolas de nieve en Club Penguin.
 
 ### Funcionamientos
 * Iniciar y detener el lanzamiento de bolas de nieve (Presionar `F1`)
@@ -26,7 +26,7 @@ Descargue aquí 👇 y consulte [aquí](https://github.com/vargastomas/Tirabolas
 <a href="https://github.com/vargastomas/Tirabolas-3000/releases/latest"><img src="https://img.shields.io/badge/Windows%20(7+)-3a71c1?&logo=Windows11&labelColor=0c0d10&color=0078D6&style=for-the-badge" alt="latestreleases"></a>
 
 ## 📚 Bibliotecas
-* [Graphics](https://github.com/iseahound/Graphics) - Renderizador de texto e imágenes para <a href="https://www.autohotkey.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autohotkey.svg" alt="autohotkey" width=16></a> AutoHotkey.
+* [Graphics](https://github.com/iseahound/Graphics) - Renderizador de texto e imágenes para AutoHotkey.
 
 ## 📄 Licencia
 [![Unlicense](https://upload.wikimedia.org/wikipedia/commons/a/ac/License_icon-pd-88x31.svg)](http://unlicense.org)
