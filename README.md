@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="43%" src="./assets/cover.png"><br><br>
+  <img height="auto" width="49%" src="./assets/cover.png"><br><br>
   <a href="#-instalación">
     <img src="https://img.shields.io/github/downloads/vargastomas/Tirabolas-3000/total?label=Descargas&labelColor=0c0d10&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIGFsaWduPSJjZW50ZXIiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSItMyAtNCAzMCAzMCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS4yIDBhLjguOCAwIDAgMC0uOC44djExLjRMNy4yNiA5LjQ0YS44MDMuODAzIDAgMCAwLTEuMTMuMDc0bC0xLjA1IDEuMmEuOC44IDAgMCAwIC4wNzMgMS4xM2w2LjMzIDUuNTRhLjc5NS43OTUgMCAwIDAgMS4wNSAwbDYuMzItNS41NGEuOC44IDAgMCAwIC4wNzQtMS4xM2wtMS4wNS0xLjJhLjgwNC44MDQgMCAwIDAtMS4xMy0uMDc0bC0zLjE0IDIuNzZWLjhhLjguOCAwIDAgMC0uOC0uOHptLTggMjAuOGEuOC44IDAgMCAwLS44Ljh2MS42YS44LjggMCAwIDAgLjguOGgxNy42YS44LjggMCAwIDAgLjgtLjh2LTEuNmEuOC44IDAgMCAwLS44LS44eiIvPgo8L3N2Zz4K" alt="alldownloads">
   </a>
