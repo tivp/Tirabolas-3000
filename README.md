@@ -22,3 +22,5 @@ Descargue aquí 👇. Diríjase [aquí](https://github.com/tivp/Tirabolas-3000/r
 
 ## ⚖️ Licencia
 [![Unlicense](https://upload.wikimedia.org/wikipedia/commons/a/ac/License_icon-pd-88x31.svg)](http://unlicense.org)
+
+Este proyecto está licenciado bajo Unlicense, lo que significa que está en el dominio público. Eres libre de copiar, modificar, publicar, usar, compilar, vender o distribuir este software sin restricciones. - Para más información, consulta [aquí](./LICENSE) los detalles de la licencia.
