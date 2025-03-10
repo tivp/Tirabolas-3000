@@ -4,7 +4,7 @@
     <a href="#%EF%B8%8F-licencia"><img src="https://img.shields.io/github/license/tivp/Tirabolas-3000?label=Licencia&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==&style=for-the-badge" alt="license"></a><br><br><b>¿🤔 Como tirar muchas bolas de nieve en Club Penguin?</b><br>💁‍♂️ Utilice este práctico tirador automático de bolas.<br><br><img src=./assets/demo_video.gif width=60%><br><br>
 </div>
 
-***
+---
 Un sencillo programa hecho en AutoHotkey para lanzar bolas de nieve en Club Penguin. 😉
 
 ### Funcionamientos
